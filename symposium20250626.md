@@ -75,3 +75,6 @@ description: 「次世代計算基盤に係る調査研究」運用技術調査�
   </tr>
 </tbody>
 </table>
+
+## 参加申し込み
+https://u-tokyo-ac-jp.zoom.us/meeting/register/QBU94GVtTIWmDv-3aqBO_A
