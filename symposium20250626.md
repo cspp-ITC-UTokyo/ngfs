@@ -83,4 +83,6 @@ description: 「次世代計算基盤に係る調査研究」運用技術調査�
 </table>
 
 ## 参加申し込み
-https://u-tokyo-ac-jp.zoom.us/meeting/register/QBU94GVtTIWmDv-3aqBO_A
+- お申し込みはこちらから
+  - 現地参加の場合もZoomの登録システム内で指定してください。
+- [https://u-tokyo-ac-jp.zoom.us/meeting/register/QBU94GVtTIWmDv-3aqBO_A](https://u-tokyo-ac-jp.zoom.us/meeting/register/QBU94GVtTIWmDv-3aqBO_A)
