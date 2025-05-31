@@ -90,3 +90,7 @@ description: 「次世代計算基盤に係る調査研究」運用技術調査�
 - お申し込みはこちらから
   - 現地参加の場合もZoomの登録システム内で指定してください。
   - [https://u-tokyo-ac-jp.zoom.us/meeting/register/QBU94GVtTIWmDv-3aqBO_A](https://u-tokyo-ac-jp.zoom.us/meeting/register/QBU94GVtTIWmDv-3aqBO_A)
+
+### お問い合わせ
+- 塙　敏博 (東京大学情報基盤センター)
+  - hanawa (アットマーク) cc.u-tokyo.ac.jp
