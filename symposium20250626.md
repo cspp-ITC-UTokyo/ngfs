@@ -56,7 +56,7 @@ description: 「次世代計算基盤に係る調査研究」運用技術調査�
   </tr>
   <tr>
     <th>14:30-15:00</th>
-    <td>データ利活用とワークフロー</td>
+    <td>データ利活用とワークフロー [<A href="./20250626_ngfs-opr_ohshima.pdf">PDF</A>]</td>
     <td>九州大学 大島聡史</td>
   </tr>
   <tr>
