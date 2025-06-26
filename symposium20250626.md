@@ -75,7 +75,7 @@ description: 「次世代計算基盤に係る調査研究」運用技術調査�
   </tr>
   <tr>
     <th>16:20-16:50</th>
-    <td>今後のHPCIに向けて</td>
+    <td>今後のHPCIに向けて[<A href="./今後のHPCIに向けて（庄司）.pdf">PDF(庄司)</A>][<A href="./運用FS最終報告会20250628-HPCI-hanawa.pdf">PDF(塙)</A>]</td>
     <td>理化学研究所 庄司 文由、東京大学 塙 敏博</td>
   </tr>
   <tr>
